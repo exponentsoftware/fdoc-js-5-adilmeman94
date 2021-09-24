@@ -1,0 +1,25 @@
+{
+  "name": "fdoc-js-5-adilmeman94",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-js-5-adilmeman94.git"
+  },
+  "author": "Adil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-js-5-adilmeman94/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-js-5-adilmeman94#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
